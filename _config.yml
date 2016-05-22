@@ -1,16 +1,16 @@
 # Site settings
 title: Miftahur Ridho
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: '/jekyll-uno/'
+description: 'Mahasiswa Sistem Informasi, Fakultas Sains dan Teknologi, UIN SUSKA RIAU'
+url: 'http://sif.uin-suska.ac.id/' 
+baseurl: '/sif uin-suska/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Miftahur Ridho'
+  email: mifridho@gmail.com
+  twitter_username: mifridho
+  github_username:  miftahurridho
+  linkedin_username:  miftahurridho
 
 # Build settings
 destination: _site
